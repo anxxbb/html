@@ -5,3 +5,4 @@ h1 { color: navy; font-size: 2.5em: text-align: center; }
 
 h1 { color: darkgreen; font-size: 3m; text-transform: uppercase; }
 th {background-color: lightgray; color: darkblue; padding: 10px; }
+td { background-color: #f0f0f0; padding: 8px; }
