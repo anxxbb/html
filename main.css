@@ -1,0 +1,12 @@
+/ main.css */ > main.css
+sed -i 's/<\head>/<link rel=stylessheet href=main.css>\n<\/head>/' index.html
+clear
+
+
+
+clear
+clear
+clear
+echo / main.css */
+h1 { color: navy; font-size: 2.5em: text-align: center; }
+
